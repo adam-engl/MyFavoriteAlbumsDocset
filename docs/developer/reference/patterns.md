@@ -1,4 +1,4 @@
-## Common Patterns
+## Common Patterns<!-- {docsify-ignore} -->
 
 ### Data Filtering Pattern
 

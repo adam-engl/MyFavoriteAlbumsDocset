@@ -1,6 +1,4 @@
-## Deploying the Application
-
-**Audience:** Developers who want to share their MyFavoriteAlbums application with others
+## Deploying the Application<!-- {docsify-ignore} -->
 
 **Prerequisites:**
 

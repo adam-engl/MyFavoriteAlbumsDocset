@@ -1,4 +1,4 @@
-## Global Variables
+## Global Variables<!-- {docsify-ignore} -->
 
 ### `album_data`
 

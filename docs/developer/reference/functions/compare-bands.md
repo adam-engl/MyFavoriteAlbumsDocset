@@ -1,4 +1,4 @@
-### compare_bands.R
+### compare_bands.R<!-- {docsify-ignore} -->
 
 #### `band_album_comparison_chart(var.artist1, var.artist2)`
 

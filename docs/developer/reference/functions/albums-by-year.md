@@ -1,4 +1,4 @@
-### albums_by_year.R
+### albums_by_year.R<!-- {docsify-ignore} -->
 
 #### `year_albums(year.var)`
 

@@ -1,6 +1,4 @@
-## Viewing Number One Albums
-
-**Audience:** Music enthusiasts who want to see their top albums across multiple years
+## Viewing Number One Albums<!-- {docsify-ignore} -->
 
 **Prerequisites:**
 

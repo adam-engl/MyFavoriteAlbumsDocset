@@ -1,6 +1,4 @@
-## Comparing Artists
-
-**Audience:** Music enthusiasts who want to compare ratings between two artists
+## Comparing Artists <!-- {docsify-ignore} -->
 
 **Prerequisites:**
 

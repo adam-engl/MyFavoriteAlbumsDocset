@@ -2,7 +2,7 @@
 
 This section provides detailed documentation for all functions in MyFavoriteAlbums.
 
-## Overview
+## Overview<!-- {docsify-ignore} -->
 
 Functions are organized by module file:
 
@@ -12,6 +12,6 @@ Functions are organized by module file:
 - [vinyl.R](functions/vinyl.md) - Vinyl collection analysis
 - [compare-bands.R](functions/compare-bands.md) - Artist comparison functions
 
-## Quick Reference
+## Quick Reference<!-- {docsify-ignore} -->
 
 For a complete alphabetical listing of all functions, see the individual module pages.

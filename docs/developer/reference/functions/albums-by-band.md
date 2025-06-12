@@ -1,4 +1,4 @@
-### albums_by_band.R
+### albums_by_band.R<!-- {docsify-ignore} -->
 
 #### `albums_by_bands(band.var)`
 

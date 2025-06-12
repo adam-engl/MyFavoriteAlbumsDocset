@@ -1,4 +1,4 @@
-## UI Controls Quick Reference
+## UI Controls Quick Reference <!-- {docsify-ignore-all} -->
 
 ### Number One Albums Tab
 

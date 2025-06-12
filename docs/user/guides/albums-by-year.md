@@ -1,6 +1,4 @@
-## Finding Your Top Albums By Year
-
-**Audience:** Music enthusiasts who want to see their top-ranked albums for specific years
+## Finding Your Top Albums By Year <!-- {docsify-ignore} -->
 
 **Prerequisites:**
 

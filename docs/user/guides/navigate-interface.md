@@ -1,6 +1,4 @@
-## Navigating the Web Interface
-
-**Audience:** Music enthusiasts using the MyFavoriteAlbums application
+## Navigating the Web Interface<!-- {docsify-ignore} -->
 
 **Prerequisites:**
 

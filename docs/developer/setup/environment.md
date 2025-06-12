@@ -1,6 +1,4 @@
-## Setting Up Your Development Environment
-
-**Audience:** Developers with some programming experience who want to work with the MyFavoriteAlbums codebase
+## Setting Up Your Development Environment <!-- {docsify-ignore} -->
 
 **Prerequisites:**
 

@@ -1,4 +1,4 @@
-### number_one_albums.R
+### number_one_albums.R<!-- {docsify-ignore} -->
 
 #### `number_one_album(var.startyear, var.endyear)`
 

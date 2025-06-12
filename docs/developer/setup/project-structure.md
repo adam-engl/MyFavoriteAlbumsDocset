@@ -1,6 +1,4 @@
-## Understanding the Codebase Structure
-
-**Audience:** Developers who want to understand how the MyFavoriteAlbums code is organized
+## Understanding the Codebase Structure<!-- {docsify-ignore} -->
 
 **Prerequisites:**
 

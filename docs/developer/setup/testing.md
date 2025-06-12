@@ -1,6 +1,4 @@
-## Testing/Modifying Existing Functions
-
-**Audience:** Developers who want to explore and use the existing functions in MyFavoriteAlbums
+## Testing/Modifying Existing Functions<!-- {docsify-ignore} -->
 
 **Prerequisites:**
 

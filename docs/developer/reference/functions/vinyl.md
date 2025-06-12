@@ -1,4 +1,4 @@
-### vinyl.R
+### vinyl.R<!-- {docsify-ignore} -->
 
 #### `missing_vinyl()`
 

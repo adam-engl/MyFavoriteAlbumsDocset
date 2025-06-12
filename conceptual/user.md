@@ -137,7 +137,7 @@ This layered approach allows you to explore your music collection from multiple 
 
 MyFavoriteAlbums operates within a specific technical environment:
 
-### Required Software
+### Required Software <!-- {docsify-ignore} -->
 
 The application is built on:
 

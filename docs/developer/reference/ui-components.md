@@ -1,4 +1,4 @@
-## UI Output Functions
+## UI Output Functions<!-- {docsify-ignore} -->
 
 These functions are used in `app_server.R` to render data for display:
 

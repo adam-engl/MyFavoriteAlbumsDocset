@@ -1,6 +1,4 @@
-## Analyzing Artist Discographies
-
-**Audience:** Music enthusiasts who want to examine all albums by a specific artist
+## Analyzing Artist Discographies <!-- {docsify-ignore} -->
 
 **Prerequisites:**
 

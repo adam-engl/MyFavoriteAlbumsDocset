@@ -1,6 +1,4 @@
-## Adding a New Analysis Feature
-
-**Audience:** Developers who want to extend MyFavoriteAlbums with new functionality
+## Adding a New Analysis Feature <!-- {docsify-ignore} -->
 
 **Prerequisites:**
 

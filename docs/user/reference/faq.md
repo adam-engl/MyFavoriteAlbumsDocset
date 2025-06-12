@@ -1,4 +1,4 @@
-## Frequently Asked Questions
+## Frequently Asked Questions <!-- {docsify-ignore-all} -->
 
 ### Getting Started
 

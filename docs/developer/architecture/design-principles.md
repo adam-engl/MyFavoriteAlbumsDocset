@@ -2,7 +2,7 @@
 
 MyFavoriteAlbums embodies several key design principles:
 
-### Functional Programming Approach
+### Functional Programming Approach<!-- {docsify-ignore} -->
 
 The code uses a functional programming style where:
 
@@ -10,7 +10,7 @@ The code uses a functional programming style where:
 - Each function performs a specific, well-defined operation
 - Functions are organized into thematic modules
 
-### Separation of Concerns
+### Separation of Concerns<!-- {docsify-ignore} -->
 
 The application maintains clear separation between:
 
@@ -18,7 +18,7 @@ The application maintains clear separation between:
 - Business logic and analysis
 - User interface and presentation
 
-### Reactivity Model
+### Reactivity Model<!-- {docsify-ignore} -->
 
 The Shiny application uses a reactive programming model where:
 
@@ -30,7 +30,7 @@ The Shiny application uses a reactive programming model where:
 
 Developers working with MyFavoriteAlbums should be aware of several conceptual challenges:
 
-### State Management
+### State Management<!-- {docsify-ignore} -->
 
 The application handles state primarily through:
 
@@ -40,7 +40,7 @@ The application handles state primarily through:
 
 There is no persistent state beyond the initial data load.
 
-### Data Transformation Pipeline
+### Data Transformation Pipeline<!-- {docsify-ignore} -->
 
 The data follows a transformation pipeline:
 
@@ -51,7 +51,7 @@ The data follows a transformation pipeline:
 
 Understanding this pipeline helps in comprehending how data flows through the system.
 
-### UI/Logic Separation
+### UI/Logic Separation<!-- {docsify-ignore} -->
 
 The application maintains separation between:
 

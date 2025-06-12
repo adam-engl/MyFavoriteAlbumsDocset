@@ -1,4 +1,4 @@
-## Error Messages Guide
+## Error Messages Guide <!-- {docsify-ignore-all} -->
 
 | Error                       | Cause                                  | Solution                                    |
 | --------------------------- | -------------------------------------- | ------------------------------------------- |

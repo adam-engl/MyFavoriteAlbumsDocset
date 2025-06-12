@@ -12,7 +12,7 @@ This conceptual overview is designed for:
 
 ## Software Capabilities and Limitations
 
-### What MyFavoriteAlbums Can Do
+### What MyFavoriteAlbums Can Do <!-- {docsify-ignore} -->
 
 MyFavoriteAlbums provides functionality for:
 
@@ -22,7 +22,7 @@ MyFavoriteAlbums provides functionality for:
 - Comparing ratings between artists over time
 - Analyzing vinyl collection information
 
-### What MyFavoriteAlbums Cannot Do
+### What MyFavoriteAlbums Cannot Do<!-- {docsify-ignore} -->
 
 The software does not:
 

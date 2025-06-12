@@ -1,6 +1,4 @@
-## Debugging the Application
-
-**Audience:** Developers who need to troubleshoot issues in the MyFavoriteAlbums application
+## Debugging the Application<!-- {docsify-ignore} -->
 
 **Prerequisites:**
 

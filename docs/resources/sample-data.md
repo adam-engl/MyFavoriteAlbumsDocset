@@ -1,4 +1,4 @@
-# Sample Data
+# Sample Data <!-- {docsify-ignore-all} -->
 
 This page provides sample data you can use to test MyFavoriteAlbums.
 

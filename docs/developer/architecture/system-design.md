@@ -2,13 +2,13 @@
 
 MyFavoriteAlbums follows a modular architecture with three distinct layers:
 
-### 1. Data Layer
+### 1. Data Layer <!-- {docsify-ignore} -->
 
 At the foundation is a single CSV data store containing album information in a denormalized format. This approach prioritizes simplicity and ease of analysis over normalization, allowing for straightforward filtering operations without complex joins.
 
 _Note: This design choice is a trade-off common in data architecture. In relational database design, data would be normalized into separate tables (e.g., Albums, Artists, Years) to reduce redundancy. However, the denormalized approach used here simplifies data access and analysis operations at the cost of some data duplication._
 
-### 2. Analysis Layer
+### 2. Analysis Layer <!-- {docsify-ignore} -->
 
 The middle layer consists of R functions organized into thematic modules, each handling a specific analysis domain:
 
@@ -20,7 +20,7 @@ The middle layer consists of R functions organized into thematic modules, each h
 
 These functions transform the raw data into meaningful information through filtering, aggregation, and calculation operations.
 
-### 3. Presentation Layer
+### 3. Presentation Layer <!-- {docsify-ignore} -->
 
 The top layer is a Shiny web application that provides interactive access to the analysis functions. It follows the standard Shiny pattern of separated UI and server components:
 
@@ -32,7 +32,7 @@ The top layer is a Shiny web application that provides interactive access to the
 
 Understanding how components interact is crucial to comprehending the system:
 
-### Module Dependencies
+### Module Dependencies <!-- {docsify-ignore} -->
 
 ```
 app.R
@@ -47,7 +47,7 @@ app.R
 
 Each module accesses the central data source but operates independently within its domain.
 
-### Data Flow
+### Data Flow <!-- {docsify-ignore} -->
 
 1. Raw data is loaded from CSV into memory.
 2. Analysis functions filter and transform this data.
@@ -58,7 +58,7 @@ Each module accesses the central data source but operates independently within i
 
 MyFavoriteAlbums exists within an ecosystem of tools and technologies:
 
-### R Ecosystem
+### R Ecosystem <!-- {docsify-ignore} -->
 
 The application leverages several key components of the R ecosystem:
 
@@ -67,7 +67,7 @@ The application leverages several key components of the R ecosystem:
 - ggplot2 for visualization construction
 - Shiny for interactive web application capabilities
 
-### Application Structure
+### Application Structure <!-- {docsify-ignore} -->
 
 The application structure follows conventional patterns:
 

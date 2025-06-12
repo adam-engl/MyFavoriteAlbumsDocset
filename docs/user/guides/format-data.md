@@ -1,8 +1,6 @@
-## Formatting Your Album Rankings Data
+## Formatting Your Album Rankings Data<!-- {docsify-ignore} -->
 
 Before you can analyze your album rankings, you need to prepare your data in the correct format.
-
-**Audience:** Music enthusiasts with basic spreadsheet knowledge
 
 **Prerequisites:**
 

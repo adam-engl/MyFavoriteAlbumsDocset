@@ -1,4 +1,4 @@
-## CSV Data Schema Reference
+## CSV Data Schema Reference <!-- {docsify-ignore-all} -->
 
 ### Overview
 
@@ -66,4 +66,3 @@ Year,Ranking,Album,Artist,Rating,Vinyl,EP,Live
 - Don't skip the Ranking field or leave it blank
 - Don't use text like "none" in the Vinyl field - leave it blank
 - Ensure Year is a number, not text like "2023-2024"
-

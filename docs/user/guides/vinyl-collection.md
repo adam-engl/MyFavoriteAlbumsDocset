@@ -1,6 +1,4 @@
-## Exploring Your Vinyl Collection
-
-**Audience:** Music enthusiasts who want to analyze their vinyl collection
+## Exploring Your Vinyl Collection<!-- {docsify-ignore} -->
 
 **Prerequisites:**
 
